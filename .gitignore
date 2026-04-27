@@ -1,0 +1,15 @@
+# Local history
+.gemini/
+.history/
+.vscode/
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Large files or backups
+*.pdf
+*.zip
+*.rar
+*.7z
